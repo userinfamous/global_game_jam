@@ -46,7 +46,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.80392164, g: 0.80392164, b: 0.80392164, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -63,7 +63,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 3.4609375
+  orthographic size: 3.6015625
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -118,17 +118,17 @@ MonoBehaviour:
   target: {fileID: 0}
   deadzone:
     serializedVersion: 2
-    x: -1.4
-    y: -3
+    x: -1.49
+    y: -4.71
     width: 2.6
-    height: 5.9
+    height: 2.59
   smoothPos: {x: 0, y: 1, z: 0}
   limits:
   - serializedVersion: 2
-    x: -4.7
-    y: -0.53
-    width: 25.38
-    height: 8.06
+    x: -23.95
+    y: -0.6
+    width: 48.03
+    height: 12.26
 --- !u!114 &114538131317111912
 MonoBehaviour:
   m_ObjectHideFlags: 0
