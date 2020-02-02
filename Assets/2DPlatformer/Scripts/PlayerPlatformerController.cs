@@ -5,8 +5,8 @@ using UnityEngine;
 public class PlayerPlatformerController : PhysicsObject
 {
 
-    public float maxSpeed = 3;
-    public float jumpTakeOffSpeed = 2;
+    public float maxSpeed = 7;
+    public float jumpTakeOffSpeed = 7;
 
     private SpriteRenderer spriteRenderer;
     private Animator animator;
